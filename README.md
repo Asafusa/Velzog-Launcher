@@ -1,0 +1,2 @@
+# Velzog-Launcher
+Config Only
