@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<controlnews>
+<!-- LAISSER LE MINNEWS A 1 -->
+<minnews>1</minnews>
+<!-- METTEZ CE QUE VOUS VOULEZ SUR LE MAWNEWS -->
+<maxnews>4</maxnews>
+</controlnews>

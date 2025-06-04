@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<control>
+<!-- IMAGE DE FOND DU LAUNCHER -->
+<!-- ATTENTION A BIEN METTRE UNE EXTENSIONS PNG ou JPG POUR LE LIEN DE L'IMAGE -->
+<background></background>
+<!-- ETAT DU LAUNCHER -->
+<!-- ok -->
+<!-- Maintenance  -->
+<!-- Hors-Ligne -->
+<!-- RIEN = HORS LIGNE -->
+<state>ok</state>
+<!-- THEME DU LAUNCHER  -->
+<!-- normal = theme normal (theme bleu marine )-->
+<!-- RED = Theme red -->
+<!-- PINK =  Theme Pink -->
+<!-- YELLOW = Theme jaune  -->
+<!-- GREEN = Theme Vert -->
+<theme>normal</theme>
+<!-- LANGUAGE BASIQUE DU LAUNCHER  -->
+<!-- fr = FRANCAIS -->
+<!-- es = ESPAGNOL -->
+<!-- en = ANGLAIS -->
+<!-- VERIFICATIONS D'IP AUTOMATIQUE POUR DEFINIR UN LANGUAGE DE BASE SELON LA LOCALISATION DE L'IP -->
+<languagebase>fr</languagebase>
+
+<!-- ATTENTIONS A L'ORTHOGRAPHE !! LE MIEUX EST DE FAIRE UN COPIER&COLLER -->
+</control>

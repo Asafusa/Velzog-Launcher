@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<!-- ID DE LA NEWS (1,2,3,4etc...) -->
+    <item id="1">
+	<!-- TITRE EN GROS SUR LE LAUNCHER -->
+        <titlefr>NOUVEAU LAUNCHEUR AELYS</titlefr>
+        <titlees>NUEVO LANZADOR AELYS</titlees>
+        <titleen>NEW LAUNCHEUR AELYS</titleen>
+		<!-- LIEN D'UNE IMAGE ( QUI SERAS AFFICHER SUR LE LAUNCHER -->
+        <link>https://wallpapercave.com/wp/wp3076925.jpg</link>
+		<!-- LIEN DE REDIRECTIONS LORSQU'ON CLIQUE SUR L'IMAGE DU LAUNCHER -->
+        <pub>http://aelys-game.eu/</pub>
+    </item>
+    <item id="2">
+        <titlefr>UNE AVENTURE INCROYABLE VOUS ATTEND !</titlefr>
+        <titlees>TE ESPERA UNA AVENTURA INCREÍBLE</titlees>
+        <titleen>AN INCREDIBLE ADVENTURE AWAITS YOU</titleen>
+        <link>https://wallpapercave.com/wp/wp3077056.jpg</link>
+        <pub>http://aelys-game.eu/</pub>
+    </item>
+    <item id="3">
+        <titlefr>AELYS EST FAIT POUR VOUS !</titlefr>
+        <titlees>¡EL AELYS ES PARA TI!</titlees>
+        <titleen>AELYS IS FOR YOU!</titleen>
+        <link>https://wallpapercave.com/wp/wp3077065.jpg</link>
+        <pub>http://aelys-game.eu/</pub>
+    </item>
+    <item id="4">
+        <titlefr>NOUVELLE VERSION DE AELYS !</titlefr>
+        <titlees>¡NUEVA VERSIÓN DE AELYS!</titlees>
+        <titleen>NEW VERSION OF AELYS!</titleen>
+        <link>https://wallpapercave.com/wp/wp3077035.jpg</link>
+        <pub>http://aelys-game.eu/</pub>
+    </item>
+</news>
