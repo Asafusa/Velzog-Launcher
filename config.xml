@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 <!-- NOM AFFICHER SUR LE LAUNCHER -->
- <name>Aelys</name>
+ <name>Mythralys</name>
 <!--  EXECUTABLE DU JEU -->
 <executable>Dofus.exe</executable>
 <!-- UPDATE LINK -->
-<download>http://aelys-game.eu:81/rss/launcher/Client/</download>
+<download>http://45.67.229.166:81/rss/launcher/Client/</download>
 <!-- ATTENTION A NE PAS METTRE DE "/"  à la fin sur NEWS et LAUNCHER -->
 <!-- NEWS LINK -->
-<news>http://aelys-game.eu:81/rss/xml</news>
+<news>http://45.67.229.166:81/rss/xml</news>
 <!-- LAUNCHER LINK -->
-<launcher>http://aelys-game.eu:81/rss/xml</launcher>
+<launcher>http://45.67.229.166:81/rss/xml</launcher>
 <!-- DISCORD LINK -->
 <discord>https://discord.gg/invite/26wjZPqc7K</discord>
 <!-- WEBSITE LINK -->
